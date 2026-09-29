@@ -18,6 +18,7 @@ Public catalog of [github.com/ralvanos](https://github.com/ralvanos). Pin this r
 | [Tavryn](https://github.com/ralvanos/Tavryn) | Intermittent fasting timer. Encrypted local history, optional PIN, JSON backup. |
 | [mydose](https://github.com/ralvanos/mydose) | Supplement and medication log, history, stats, and local reminders. |
 | [blood_donation](https://github.com/ralvanos/blood_donation) | Whole blood, plasma, platelets, and double-red tracker with eligibility countdowns. |
+| [Volta](https://github.com/ralvanos/volta) | Home-screen battery widgets: live percent, charging vs on battery, optional lock-screen notice. |
 
 ## Infrastructure, read-only
 
