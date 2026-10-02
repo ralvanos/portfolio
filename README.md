@@ -5,6 +5,7 @@ focus:    local-first tools that stay on your machine
 android:  offline apps, encrypted at rest, optional PIN
 ops:      read-only dashboards (look, don't change)
 network:  path checks and the box in front of you
+tools:    source quotes and media renames, on your machine
 license:  MIT
 contact:  ralvanos@protonmail.com
 </pre>
@@ -36,6 +37,13 @@ These talk to your own gear and **do not write** to it.
 | [LinkScope](https://github.com/ralvanos/LinkScope) | Continuous path monitor with fault isolation and a live local WebUI. |
 | [vyaward](https://github.com/ralvanos/vyaward) | Map and grade the route to a host, and watch who knocks on this machine. |
 | [display_info](https://github.com/ralvanos/display_info) | Raspberry Pi framebuffer dashboard: temp, CPU, RAM, path quality, VPN. |
+
+## Local tools
+
+| Project | Description |
+|---------|-------------|
+| [cake](https://github.com/ralvanos/cake) | Scan a source tree and print what to charge. Hourly total and a fixed bid, adjusted for AI-assisted work, beside a traditional team estimate. Local only. |
+| [media-renamer](https://github.com/ralvanos/media-renamer) | Bash script that renames image, video, and audio files from EXIF DateTimeOriginal or CreateDate. If that metadata is missing, it uses the file's last modification time. |
 
 ## Contact
 
