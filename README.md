@@ -21,6 +21,7 @@ Public catalog of [github.com/ralvanos](https://github.com/ralvanos). Pin this r
 | [blood_donation](https://github.com/ralvanos/blood_donation) | Whole blood, plasma, platelets, and double-red tracker with eligibility countdowns. |
 | [Volta](https://github.com/ralvanos/volta) | Home-screen battery widgets: live percent, charging vs on battery, optional lock-screen notice. |
 | [Orlux](https://github.com/ralvanos/Orlux) | Offline clock: UTC plus your timezone, stopwatches, countdowns, alarms, and home-screen widgets. |
+| [SpectrumWhisper](https://github.com/ralvanos/SpectrumWhisper) | Nearby Wi-Fi, the serving cellular signal, and meter readings you type. Encrypted on the phone. Nothing is joined. |
 
 ## Infrastructure, read-only
 
